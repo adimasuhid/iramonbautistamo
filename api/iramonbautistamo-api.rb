@@ -2,7 +2,7 @@ require 'open-uri'
 require 'json'
 
 get '/' do
-  @title = 'I Kim Atienza Mo'
+  @title = 'I Ramon Bautista Mo'
   haml :index
 end
 
